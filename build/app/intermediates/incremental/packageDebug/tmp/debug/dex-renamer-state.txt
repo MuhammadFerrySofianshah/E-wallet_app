@@ -1,0 +1,4 @@
+#Mon Apr 15 12:43:40 WIB 2024
+base.0=D\:\\Folder Fery\\Folder Flutter\\E-Wallet_App\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
